@@ -7,11 +7,11 @@ I'm a 4th-year Computer Science student at the University of Oregon, specializin
 
 ## Skills 
 
-Data Management & Databases: Excel (collection & cleaning), SQL (PostgreSQL, Microsoft SSMS, MySQL), Database Concepts
-Programming Languages: Python (NumPy, Pandas, scikit-learn, Streamlit, Seaborn, Matplot, PySpark, FastAPI, Flask), C, C++, HTML, CSS, Rust
-Data Analysis & Visualization: Data Analytics, A/B Testing, Power BI, Data Visualization in Python/Excel
-Tools & Platforms: Git/GitHub, Microsoft 365 Apps, ChatGPT, Claude, Linux
-Certifications: Associate Data Engineer in SQL, Intel - Data Visualization, OpenAI - AI Professional Skills,  Intercultural Skill
+- Data Management & Databases: Excel (collection & cleaning), SQL (PostgreSQL, Microsoft SSMS, MySQL), Database Concepts
+= Programming Languages: Python (NumPy, Pandas, scikit-learn, Streamlit, Seaborn, Matplot, PySpark, FastAPI, Flask), C, C++, HTML, CSS, Rust
+- Data Analysis & Visualization: Data Analytics, A/B Testing, Power BI, Data Visualization in Python/Excel
+- Tools & Platforms: Git/GitHub, Microsoft 365 Apps, ChatGPT, Claude, Linux
+- Certifications: Associate Data Engineer in SQL, Intel - Data Visualization, OpenAI - AI Professional Skills,  Intercultural Skill
 
 
 ## Let's connect 
