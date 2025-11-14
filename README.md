@@ -2,7 +2,7 @@
 
 Hey, I'm Justin!
 
-I'm a 4th-year Computer Science student at the University of Oregon, specializing in Machine Learning, Data Science, and Artificial Intelligence with a minor in Mathematics. I’m passionate about turning data into real-world impact and building systems that solve meaningful problems. Additionally, I love to solve complex problems that make me think outside the box. Graduation: June 2026. I've not only built ML models to predict customer churn but also fine-tuned each model to identify the most effective one. I have also helped automate financial reconciliation using Python and created sustainability insights through data visualization, including a project for Intel through the Global Career Accelerator. 
+I'm a 4th-year Computer Science student at the University of Oregon, specializing in Machine Learning, Data Science, and Artificial Intelligence. I’m passionate about turning data into real-world impact and building systems that solve meaningful problems. Additionally, I love to solve complex problems that make me think outside the box. Graduation: June 2026. I've not only built ML models to predict customer churn but also fine-tuned each model to identify the most effective one. I have also helped automate financial reconciliation using Python and created sustainability insights through data visualization, including a project for Intel through the Global Career Accelerator. 
 
 
 ## Skills 
