@@ -4,8 +4,6 @@
 📍 Specializing in **Machine Learning, Data Science, and Artificial Intelligence**  
 🗓️ **Graduating: June 2026**
 
-I’m passionate about turning data into real-world impact and building systems that solve meaningful problems. I enjoy solving complex challenges that push me to think outside the box.
-
 ---
 
 ## 🚀 About Me
@@ -44,9 +42,9 @@ I enjoy solving challenging problems that require both technical depth and creat
 
 ## 🤝 Let’s Connect
 
-- 📫 **Email:** [jjhatch03@gmail.com](mailto:jjhatch03@gmail.com)
-- 💼 LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/justinhatch/)
-
+- 📫 [**Email**](mailto:jjhatch03@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/justinhatch/)
+- 🖥️ [Portfolio](https://justin-portfolio-v1-git-main-jhatch3s-projects.vercel.app/)
 ---
 
 ## 📌 Featured Projects (Coming Soon)
