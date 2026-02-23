@@ -23,7 +23,7 @@ I enjoy solving challenging problems that require both technical depth and creat
 | Category | Skills |
 |---|---|
 | **Data Management & Databases** | Excel (data collection & cleaning), SQL, PostgreSQL, Microsoft SSMS, MySQL, Database Concepts |
-| **Programming Languages** | Python, C, C++, Rust, HTML, CSS |
+| **Programming Languages** | Python, C, C++, js, HTML, CSS |
 | **Python Libraries / Frameworks** | NumPy, Pandas, scikit-learn, Streamlit, Matplotlib, Seaborn, PySpark, FastAPI, Flask |
 | **Backend & API Development** | API Design, REST API Development, FastAPI, Flask, Backend Data Integration |
 | **Data Analysis & Visualization** | Data Analytics, A/B Testing, Power BI, Data Visualization (Python & Excel) |
