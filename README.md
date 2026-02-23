@@ -10,54 +10,26 @@ I’m passionate about turning data into real-world impact and building systems 
 
 ## 🚀 About Me
 
-- Built and fine-tuned ML models to predict **customer churn**, comparing performance to identify the most effective model
-- Helped automate **financial reconciliation** workflows using **Python**
-- Created **sustainability insights** through data visualization, including a project for **Intel** through the **Global Career Accelerator**
-- Actively seeking **entry-level roles** and **internships** in:
-  - Data Science
-  - ML Engineering
-  - Data 
+I’m passionate about using data to understand complex systems, uncover patterns, and build tools that drive real world decisions. My interests are especially focused on **data science**, **scientific/quantitative finance**, and **sports analytics** areas where strong modeling, experimentation, and analytical thinking can create measurable impact.
 
----
+I enjoy solving challenging problems that require both technical depth and creative thinking, whether that’s building ML models, designing data pipelines, or developing API-driven applications.
+
+- 📈 Interested in applying data and ML to **financial modeling**, **market analysis**, and **decision systems**
+- 🏀 Interested in **sports analytics**, performance evaluation, and data-driven strategy
+- 🔌 Interested in building **data-driven applications** with strong **API design**, backend logic, and analytics pipelines
+- 🌱 Actively seeking **entry-level roles** and **internships** in:
+  - Data Science | ML Engineering | Data Engineering | Software
 
 ## 🛠️ Skills
 
-### **Data Management & Databases**
-- Excel (data collection & cleaning)
-- SQL
-- PostgreSQL
-- Microsoft SSMS
-- MySQL
-- Database Concepts
-- Supabase
-
-### **Programming Languages**
-- Python *(NumPy, Pandas, scikit-learn, Streamlit, Matplotlib, Seaborn, PySpark, FastAPI, Flask)*
-- C
-- C++
-- Rust
-- HTML
-- CSS
-
-### **Data Analysis & Visualization**
-- Data Analytics
-- A/B Testing
-- Power BI
-- Data Visualization (Python & Excel)
-
-### **Backend & API Development**
-- API Design
-- REST API Development
-- FastAPI
-- Fast APi
-- Backend Data Integration
-
-### **Tools & Platforms**
-- Git / GitHub
-- Linux (ubuntu) 
-- Microsoft 365 Apps
-- ChatGPT / Claude / Meta LLMS
-- Openrouter 
+| Category | Skills |
+|---|---|
+| **Data Management & Databases** | Excel (data collection & cleaning), SQL, PostgreSQL, Microsoft SSMS, MySQL, Database Concepts |
+| **Programming Languages** | Python, C, C++, Rust, HTML, CSS |
+| **Python Libraries / Frameworks** | NumPy, Pandas, scikit-learn, Streamlit, Matplotlib, Seaborn, PySpark, FastAPI, Flask |
+| **Backend & API Development** | API Design, REST API Development, FastAPI, Flask, Backend Data Integration |
+| **Data Analysis & Visualization** | Data Analytics, A/B Testing, Power BI, Data Visualization (Python & Excel) |
+| **Tools & Platforms** | Git, GitHub, Linux, Microsoft 365 Apps, ChatGPT, Claude, Openrouter |
 
 ---
 
