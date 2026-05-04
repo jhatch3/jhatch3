@@ -19,12 +19,14 @@ I care about systems that are correct, observable, and still readable six months
 
 ---
 
-## What I'm Working On
+## Experience Highlights
 
-- 🤖 Production Claude agent tooling and AR models as an AI Engineering Intern
-- 🧠 Multi-agent LLM consensus systems with calibrated voting and reflection loops
-- 📊 Market data infrastructure (ETL, feature engineering, AI-powered news synthesis)
-- 🏆 Recent: 1st Place Solana Track @ QuackHacks II, Department Honors, Dean's List
+| Role | Org | Focus |
+|------|-----|-------|
+| AI Engineering Intern | Modern Amenities | Claude agent tooling, chatbots, automation |
+| Lead Software Engineer | Oregon Blockchain Group | Project scoping, recruitment, client engineering |
+| Jr Software Developer | Oregon Software Consulting | Market data ETL, schema design, LangChain agents on AWS |
+| Software Engineer (Client) | ai2 Trial Weave | Healthcare data infrastructure, cohort analytics |
 
 ---
 
@@ -56,17 +58,6 @@ Longitudinal patient-data infrastructure for outcomes tracking, with matched-coh
 
 ---
 
-## Experience Highlights
-
-| Role | Org | Focus |
-|------|-----|-------|
-| AI Engineering Intern | Modern Amenities | Claude agent tooling, chatbots, automation |
-| Lead Software Engineer | Oregon Blockchain Group | Project scoping, recruitment, client engineering |
-| Jr Software Developer | Oregon Software Consulting | Market data ETL, schema design, LangChain agents on AWS |
-| Software Engineer (Client) | ai2 Trial Weave | Healthcare data infrastructure, cohort analytics |
-
----
-
 ## Education & Recognition
 
 **B.S. Computer Science** · University of Oregon · *Sep 2022 – Jun 2026*
@@ -83,13 +74,6 @@ Specialization: Data Science, Machine Learning, and AI
 - DataCamp · Associate Data Engineer in SQL
 - Intel · Data Visualization
 - OpenAI · AI Professional Skills
-
----
-
-## GitHub Stats
-
-![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhatch3&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jhatch3&layout=compact&theme=default&hide_border=true&langs_count=8)
 
 ---
 
