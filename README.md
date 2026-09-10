@@ -59,25 +59,3 @@ design and ETL, model training and evaluation, and the agent tooling on top.
 
 ---
 
-### Featured work
-
-**[Portfolio + Justin's Bot](https://justinhatch.dev)** · `React` `Express` `Claude` `Docker` `Caddy`
-A portfolio that's also a macOS desktop simulation, a streaming Claude chatbot, and a live Coinbase order book. The bot runs a hardened, identity-pinned system prompt with prompt caching and a per-IP rate limit, and ships with a red-team suite that hammers it with 12 adversarial prompts — jailbreaks, injection via fake transcripts, base64 obfuscation, identity probes. Self-hosted on EC2 behind Caddy with automatic TLS.
-
-**Churn Prediction + LLM Retention Email Pipeline** · `XGBoost` `TreeSHAP` `Dagster` `dbt` `MLflow` `Claude` `Postgres`
-Nightly churn-to-retention pipeline scoring 18,618 customers at 0.79 ROC-AUC. TreeSHAP attributions are persisted as structured prompt input for Claude-generated retention emails, each grounded in live order and review history through read-only Postgres tools. An LLM-as-judge eval with enum-typed verdicts against explicit criteria surfaced real generator bugs — wrong CTA intent, prohibited offers, tone/label mismatch — that a rubric score alone would have hidden.
-
-**Evergreen Capital — AI-Governed On-Chain Prediction Fund** · `Gemini` `FastAPI` `Solana` `TypeScript`
-A 5-agent research desk (Quant, Macro, Skeptic, Data Miner, Trader) that researches independently, debates via structured cross-examination, and produces weighted consensus votes triggering autonomous Polymarket trades with no human in the loop. Full-stack MVP in 24 hours — 1st Place Solana Track, 2nd Place Polymarket Track at QuackHacks II.
-
-**Lethe — 3-LLM Consensus Medical-Bill Auditor** · `GPT-4o` `Claude` `Gemini` `0G Chain`
-Three models audit hospital bills through a two-round reflection protocol — independent analysis, then peer-informed refinement — with a 2-of-3 quorum required to dispute a charge. Agents talk over a P2P mesh with ed25519 identities, so no single model can dictate the verdict. PHI is stripped before anything reaches the agents. Top 10% of 470+ projects at ETH Global.
-
-**Market Data Pipeline + AI News Synthesis** · `FastAPI` `Supabase` `AWS` `Dagster` `LangChain`
-Postgres medallion schema (Bronze → Silver → Gold → AI) keyed by (ticker, interval, timestamp) across 4.5M+ rows and 230+ tickers, with conflict-aware upserts and 100% idempotent reruns. A scheduled LangChain agent synthesizes market context, news, and filings into source-attributed summaries powering downstream RAG.
-
----
-
-<div align="center">
-<sub>Dean's List · Department Honors · QuackHacks II winner · ETH Global top 10%</sub>
-</div>
