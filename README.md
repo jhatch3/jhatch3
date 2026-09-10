@@ -27,7 +27,7 @@ Cambridge, Massachusetts · B.S. Computer Science, University of Oregon
 
 ### About
 
-I work across the AI, ML and Data Stack  — relational schema
+I work across the AI, ML, and Data Stack  — relational schema
 design and ETL, model training and evaluation, and the agent tooling on top.
 
 > **Currently:** Software Engineer, AI/ML at **Horizon Intelligence Labs** —
