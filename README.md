@@ -1,21 +1,13 @@
 <!--
-  GitHub PROFILE README.
-
-  This is not this repo's README - it belongs in the special repo whose name
-  matches your handle: github.com/jhatch3/jhatch3  ->  README.md at its root.
-  Create that repo (public) if it doesn't exist and GitHub renders this at the
-  top of your profile page.
-
-  Kept here so it's version-controlled alongside the data it mirrors: if you
-  change a role in public/data/experience.js, change it here too.
+  GitHub profile README -> github.com/jhatch3/jhatch3/README.md (repo must be public).
+  Mirrors public/data/experience.js — change a role in one, change it in both.
 -->
 
 <div align="center">
 
 # Justin Hatch
 
-**Software Engineer, AI/ML** · I ship production agent systems ·
-Cambridge, Massachusetts · B.S. Computer Science, University of Oregon 
+**Software Engineer, AI/ML** · Horizon Intelligence Labs · Cambridge, MA
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-justinhatch.dev-1d4ed8?style=flat-square&logoColor=white)](https://justinhatch.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justinhatch/)
@@ -25,14 +17,7 @@ Cambridge, Massachusetts · B.S. Computer Science, University of Oregon
 
 ---
 
-### About
-
-I work across the AI, ML, and Data Stack  — relational schema
-design and ETL, model training and evaluation, and the agent tooling on top.
-
-> **Currently:** Software Engineer, AI/ML at **Horizon Intelligence Labs** —
-> building production applications on Cortex, the company's AI platform, and
-> designing the benchmarks that evaluate model capabilities.
+Hi, I'm Justin. I build production ML & AI applications. That runs from relational schema design and ETL through model training, evals, and the agent tooling on top.
 
 ---
 
@@ -50,12 +35,13 @@ design and ETL, model training and evaluation, and the agent tooling on top.
 
 ### Experience
 
-| Role | Org | Focus |
+| Role | Org | Work |
 |---|---|---|
-| **Software Engineer, AI/ML** | Horizon Intelligence Labs | Production applications on Cortex; benchmarks evaluating model capabilities; Cortex SDK |
-| Applied AI Intern | Machine & Minds | Applied AI systems built for measurable P&L impact |
-| AI Engineer Intern | Modern Amenities | FastAPI + Claude sales chatbot, 900+ users, structured tool-use outputs, prompt-injection hardening |
-| Lead Software Engineer | Oregon Blockchain Group | Agent orchestration on AWS Bedrock; TrialWeave (GLP-1 RWE) & Crop Share; led teams of 3–5 |
+| **Software Engineer, AI/ML** | Horizon Intelligence Labs | Production applications on Cortex; capability benchmarks; Cortex SDK |
+| Applied AI Intern | Machine & Minds | Applied AI systems <!-- TODO: name one system + one number --> |
+| AI Engineer Intern | Modern Amenities | FastAPI + Claude sales chatbot, 900+ users; structured tool-use outputs; prompt-injection hardening |
+| Lead Software Engineer | Oregon Blockchain Group | Agent orchestration on AWS Bedrock — TrialWeave (GLP-1 RWE), Crop Share; teams of 3–5 |
 
 ---
 
+B.S. Computer Science, University of Oregon
