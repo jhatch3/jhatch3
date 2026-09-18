@@ -44,4 +44,4 @@ Hi, I'm Justin. I build production ML & AI applications. That runs from relation
 
 ---
 
-B.S. Computer Science, University of Oregon
+B.S. Computer Science, University of Oregon with a focus in Machine Learning, AI and Data Science.
