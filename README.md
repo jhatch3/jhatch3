@@ -37,8 +37,8 @@ Hi, I'm Justin. I build production ML & AI applications. That runs from relation
 
 | Role | Org | Work |
 |---|---|---|
-| **Software Engineer, AI/ML** | Horizon Intelligence Labs | Production applications on Cortex; capability benchmarks; Cortex SDK |
-| Applied AI Intern | [Machine & Minds](https://www.machineandminds.ai/) | Applied AI systems <!-- TODO: name one system + one number --> |
+| **Software Engineer, AI/ML** | [Horizon Intelligence Labs](https://horizon-neuro.com/) | Production applications on Cortex; capability benchmarks; Cortex SDK, R&D |
+| Applied AI Intern | [Machine & Minds](https://www.machineandminds.ai/) | Applied AI Fellowship. Learning AI systems and best practice <!-- TODO: name one system + one number --> |
 | AI Engineer Intern | [Modern Amenities](https://get.modern-amenities.com/?utm_adgroup=173365109279&utm_device=c&utm_loc_physical=1018145&utm_loc_interest=&utm_source=google&utm_medium=cpc&utm_campaign=22169767395&utm_term=vending%20machine%20for%20hotel&utm_content=807302829249&hsa_acc=6039899744&hsa_cam=22169767395&hsa_grp=173365109279&hsa_ad=807302829249&hsa_src=g&hsa_tgt=kwd-1392563785622&hsa_kw=vending%20machine%20for%20hotel&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=22169767395&gbraid=0AAAAArEpNknfEwuDz4wrlDj-9hUT5LmhC&gclid=CjwKCAjwwrPVBhA1EiwAv_YO-VwNwlzblpD9xOkYgZrF1MKSFvcWeGgm2VPzKIWkunwc_M1RXzBmPxoCouYQAvD_BwE) | FastAPI + Claude sales chatbot, 900+ users; structured tool-use outputs; prompt-injection hardening |
 | Lead Software Engineer | [Oregon Blockchain Group](https://www.oregonblockchain.org/#:~:text=The%20Oregon%20Blockchain%20Group%20(OBG)%20is%20a,focused%20on%20blockchain%20education%2C%20research%2C%20and%20collaboration.) | Agent orchestration on AWS Bedrock — TrialWeave (GLP-1 RWE), Crop Share; teams of 3–5 |
 
